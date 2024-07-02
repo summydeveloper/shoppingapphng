@@ -1,16 +1,13 @@
 # shoppingapphng
+This is an app that allows users to order products by adding it to their cart and proceed to check out
 
-A new Flutter project.
+## Getting Started/ Setup Instructions
+1. Clone the repository:
+    git clone <repository_url>
+2. Navigate to the project directory:
+    cd shopping_app
+3.Install dependencies:
+    flutter pub get
+4. Now you can run your app using the command 'flutter run'
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
