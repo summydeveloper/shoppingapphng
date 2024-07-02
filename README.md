@@ -3,7 +3,7 @@ This is an app that allows users to order products by adding it to their cart an
 
 ## Getting Started/ Setup Instructions
 1. Clone the repository:
-    git clone <repository_url>
+    git clone https://github.com/summydeveloper/shoppingapphng.git
 2. Navigate to the project directory:
     cd shopping_app
 3.Install dependencies:
