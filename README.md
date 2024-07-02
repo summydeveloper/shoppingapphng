@@ -10,4 +10,10 @@ This is an app that allows users to order products by adding it to their cart an
     flutter pub get
 4. Now you can run your app using the command 'flutter run'
 
+# APK Download Link
+Download the application via this link: https://github.com/summydeveloper/shoppingapphng/blob/main/app-arm64-v8a-release.apk
+Incase you have an issue installing or running the app, you can try a demo using this link https://appetize.io/app/rkf4a2bfvq2jfurf6dg236ntwe
+
+
+
  
